@@ -12,7 +12,7 @@
 
 ## Projects
 - **Dogecoin-Price-Movement-Prediction:** Used LSTM to predict Dogecoin price movements
-- **Financial-Literacy-AI-Tutor:**: Developed an AI-driven Financial Literacy Tutor delivering personalized learning through RAG, ML models, and user-focused software engineering.
+- **Financial-Literacy-AI-Tutor:** Developed an AI-driven Financial Literacy Tutor delivering personalized learning through RAG, ML models, and user-focused software engineering.
 - **IT1244-Fraud-Analysis:** End-to-end data science project focused on detecting fraud in electricity and gas consumption
 - **AskQuestions:** Created a student-focused, user-friendly forum website using Streamlit, improving the existing interface in a 2-day BuildingBlocs hackathon
 
