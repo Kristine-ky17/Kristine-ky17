@@ -6,7 +6,7 @@
 - Currently exploring and learning more about LangChain and Agentic AI
 
 ## Skills
-- **Languages:** Python, SQL, Java
+- **Languages:** Python, SQL, Java, R
 - **Libraries:** Pandas, NumPy, Scikit-learn, TensorFlow/Keras, LangChain
 - **Tools:** Git, Jupyter Notebook, VS Code
 
